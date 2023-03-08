@@ -11,6 +11,10 @@ Guasa es un sistema que permite mandar mensajes a personas que no tienes agregad
 
 - Tener el numero de la persona a la que le quieres mandar el whatsapp. 
 
+- Poder guardar los numeros de las personas directamente en una lista.
+
+- Poder mandar mensajes automaticos.
+
 
 
 PD: Se va a cambiar de Handlebars a React por temas de eficiencia.
